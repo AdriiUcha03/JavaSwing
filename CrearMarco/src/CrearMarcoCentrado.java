@@ -4,6 +4,7 @@ import java.awt.*;
 // de forma centrada
 class MarcoCentrado extends JFrame{
     MarcoCentrado(int tam_x,int tam_y){
+        this.setSize(tam_x,tam_y);
         this.setVisible(true);
         //Con esto leemos la resolución en pantalla y generamos la creacion de
         //un punto central del que sacar el frame
