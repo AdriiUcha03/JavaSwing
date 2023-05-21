@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CrearMarco/CrearMarco.iml" filepath="$PROJECT_DIR$/CrearMarco/CrearMarco.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSwing.iml" filepath="$PROJECT_DIR$/JavaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paneles/Paneles.iml" filepath="$PROJECT_DIR$/Paneles/Paneles.iml" />
     </modules>
   </component>
 </project>
