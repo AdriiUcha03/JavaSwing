@@ -27,7 +27,7 @@ class crearLaminaBandera extends JPanel{
     }
     public void paintComponent(Graphics g){
         super.paintComponent(g);
-        //Hacemos la converaion hacia abjo del graphics al graphics2D
+        //Hacemos la conversion hacia abjo del graphics al graphics2D
         Graphics2D graphics2D = (Graphics2D)g;
         //Creamos el objeto rectangulo en 2D
         Rectangle2D rectangulo = new Rectangle2D.Double(0,0,res_x,res_y);
