@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c7e4e1-793a-4a33-8c95-a25f3a5c71f7" name="Changes" comment="" />
+    <list default="true" id="45c7e4e1-793a-4a33-8c95-a25f3a5c71f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSwing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSwing.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +23,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CrearMarco/src/CrearMarco.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CrearMarco/src/CrearMarcoCentrado.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Eventos/src/Area51.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Eventos/src/EventWindow.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Eventos/src/LetraRandom.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Layouts/src/Calculadora.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Paneles/src/Paneles_Bandera.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Paneles/src/Paneles_Slider.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Paneles/src/Paneles_paintComponent.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,20 +53,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/EJERCICIOS JAVA/JavaSwing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\EJERCICIOS JAVA\JavaSwing\Paneles\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\EJERCICIOS JAVA\JavaSwing\Layouts\src" />
+      <recent name="C:\Users\adria\Desktop\EJERCICIOS JAVA\JavaSwing\Eventos\src" />
+      <recent name="C:\Users\adria\Desktop\EJERCICIOS JAVA\JavaSwing\Paneles\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,11 +94,77 @@
       <option name="presentableId" value="Default" />
       <updated>1684527782819</updated>
       <workItem from="1684527783214" duration="3623000" />
-      <workItem from="1684531531009" duration="582000" />
+      <workItem from="1684531531009" duration="907000" />
+      <workItem from="1684660321922" duration="33989000" />
+      <workItem from="1684768435817" duration="622000" />
+      <workItem from="1684926296293" duration="825000" />
+      <workItem from="1684964441624" duration="49000" />
     </task>
+    <task id="LOCAL-00001" summary="Marcos">
+      <created>1684532344043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684532344043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Laminas Con Graphics/2D">
+      <created>1684683317793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684683317793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Laminas Con Graphics/2D">
+      <created>1684684465040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684684465040</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modificacion README.md">
+      <created>1684684590625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684684590625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Eventos">
+      <created>1684700696154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684700696154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Layouts">
+      <created>1684702212449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684702212449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Marcos" />
+    <MESSAGE value="Laminas Con Graphics/2D" />
+    <MESSAGE value="Modificacion README.md" />
+    <MESSAGE value="Eventos" />
+    <MESSAGE value="Layouts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Layouts" />
   </component>
 </project>
